@@ -25,18 +25,17 @@ Features
 * Application can define their own data structure.
 * Statistics for every sent and received package.
 
-Contact
-=======
-
-Joshua Chen joshuazchen@gmail.com
-
 Licence
 =======
 
 Berkeley Software Distribution license
-See: http://directory.fsf.org/wiki/License:BSD_3Clause
+http://directory.fsf.org/wiki/License:BSD_3Clause
 
+Contact
+=======
 
+Joshua Chen
+joshuazchen@gmail.com
 
 
 
