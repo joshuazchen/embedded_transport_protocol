@@ -1,4 +1,4 @@
-embedded_transport_protocol
+Embedded Transport Protocol
 ===========================
 
 Transport Protocol for Embedded System
