@@ -25,11 +25,11 @@ Features
 * Application can define their own data structure.
 * Statistics for every sent and received package.
 
-licence
+Licence
 =======
 
 Berkeley Software Distribution license
-http://directory.fsf.org/wiki/License:BSD_3Clause
+See: http://directory.fsf.org/wiki/License:BSD_3Clause
 
 
 
