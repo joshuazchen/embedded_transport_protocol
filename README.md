@@ -25,6 +25,11 @@ Features
 * Application can define their own data structure.
 * Statistics for every sent and received package.
 
+Contact
+=======
+
+Joshua Chen joshuazchen@gmail.com
+
 Licence
 =======
 
