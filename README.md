@@ -34,7 +34,7 @@ http://directory.fsf.org/wiki/License:BSD_3Clause
 Contact
 =======
 
-Joshua Chen
+Send me an email: 
 joshuazchen@gmail.com
 
 
